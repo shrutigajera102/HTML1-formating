@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+    color: rgb(97, 4, 125);
+    background-color: rgb(211, 167, 253);
+}
+img{
+    float: left;
+    height: 100%;
+    width: 100%;
+}
